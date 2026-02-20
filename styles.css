@@ -98,7 +98,7 @@ h1 { font-size: clamp(2rem, 5vw, 3.5rem); line-height: 1.1; margin: 0; }
   aspect-ratio: 3 / 4;
   border-radius: 12px;
   margin-bottom: .95rem;
-  background: linear-gradient(145deg, rgba(49, 219, 255, .2), rgba(82, 113, 255, .17)), url('https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=900&q=80') center/cover no-repeat;
+  background: linear-gradient(145deg, rgba(49, 219, 255, .2), rgba(82, 113, 255, .17)), url('https://github.com/ravirajcool54/-wishlist/blob/f67fcfd69afb37f859909364b44678b77bc6e890/Ravi_Profile.jpg') center/cover no-repeat;
   border: 1px solid rgba(159,174,212,.22);
 }
 .role { color: var(--brand); margin: -.25rem 0 .65rem; }
